@@ -1,5 +1,5 @@
 // FEYZULLAH ÖZTÜRK
-// INT240106731
+// Mudanya Üniversitesi 13/05/2025
 
 import java.util.Scanner;
 public class drawLetters{
